@@ -1,24 +1,20 @@
 ---
-name: 💡 Feature Request
-about: Suggest a new feature or enhancement
-title: "[FEATURE] Short description"
+name: ✨ Feature Request
+about: Suggest a new idea or enhancement
+title: '[Feature] '
 labels: enhancement
-assignees: tripletttrends
+assignees: ''
 
 ---
 
-## 💡 Describe the Feature
+## 🌟 Describe the Feature
 
-What's the new idea?
+What should the app do differently? What's the big idea?
 
-## 🤔 Why This Feature?
+## 💡 Why is it useful?
 
-Why is this helpful? What problem does it solve?
+Help us understand how this improves the workflow, scraping, or usability.
 
-## 🛠 Suggested Implementation
+## 🧱 Suggested Implementation (Optional)
 
-How do you envision this working?
-
-## 📎 Additional Notes
-
-Screenshots, mockups, or examples if you have any.
+If you have thoughts on how to build it — drop them here!
