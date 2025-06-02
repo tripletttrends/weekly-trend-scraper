@@ -7,3 +7,12 @@ This project scrapes Google Trends, Reddit, Etsy, and Pinterest to gather the to
 It runs weekly using GitHub Actions and emails a plain-text report to the owner.
 
 > ✨ Made for Triplett Trends' POD empire.
+
+---
+
+## 📦 Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/tripletttrends/weekly-trend-scraper.git
+   cd weekly-trend-scraper
